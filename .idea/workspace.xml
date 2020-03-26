@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f3ba5c1-50f2-4232-88ce-6c2aa14558f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="217" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/Library/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="/Library/Maven/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZWS3xLJi8JBpuUm6qUh5WwN8q2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jx.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TxTest.test1">
+    <configuration name="AOPTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jx.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jx.test" />
+      <option name="MAIN_CLASS_NAME" value="jx.test.AOPTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoWiredTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jx.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jx.test" />
+      <option name="MAIN_CLASS_NAME" value="jx.test.AutoWiredTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProfileTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_annotation" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jx.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jx.test" />
+      <option name="MAIN_CLASS_NAME" value="jx.test.ProfileTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropertyValuesTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jx.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jx.test" />
+      <option name="MAIN_CLASS_NAME" value="jx.test.PropertyValuesTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TxTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jx.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jx.test" />
+      <option name="MAIN_CLASS_NAME" value="jx.test.TxTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.PropertyValuesTest.test1" />
+      <item itemvalue="JUnit.AutoWiredTest.test1" />
+      <item itemvalue="JUnit.ProfileTest.test1" />
+      <item itemvalue="JUnit.AOPTest.test1" />
+      <item itemvalue="JUnit.TxTest.test1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TxTest.test1" />
+        <item itemvalue="JUnit.AOPTest.test1" />
+        <item itemvalue="JUnit.ProfileTest.test1" />
+        <item itemvalue="JUnit.AutoWiredTest.test1" />
+        <item itemvalue="JUnit.PropertyValuesTest.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f3ba5c1-50f2-4232-88ce-6c2aa14558f4" name="Default Changelist" comment="" />
+      <created>1584953161835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584953161835</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="220" y="34" key="#Project_Structure" timestamp="1584953329650">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="220" y="34" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1584953329650" />
+    <state x="315" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585218561547">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="315" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.800@0.0.1280.800" timestamp="1585218561547" />
+    <state x="184" y="107" width="1212" height="686" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585051597052">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="107" width="1212" height="686" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1585051597052" />
+    <state x="494" y="95" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1584974899120">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="494" y="95" key="#com.intellij.ide.macro.MacrosDialog/0.0.1440.900@0.0.1440.900" timestamp="1584974899120" />
+    <state x="489" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1585040026032">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="489" y="67" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1585040026032" />
+    <state width="1228" height="551" key="GridCell.Tab.0.bottom" timestamp="1585223604785">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1228" height="551" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1585223604785" />
+    <state width="1388" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585051616753" />
+    <state width="1388" height="312" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1585128673958" />
+    <state width="1228" height="551" key="GridCell.Tab.0.center" timestamp="1585223604784">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1228" height="551" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1585223604784" />
+    <state width="1388" height="280" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585051616752" />
+    <state width="1388" height="312" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1585128673958" />
+    <state width="1228" height="551" key="GridCell.Tab.0.left" timestamp="1585223604784">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1228" height="551" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1585223604784" />
+    <state width="1388" height="280" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585051616751" />
+    <state width="1388" height="312" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1585128673957" />
+    <state width="1228" height="551" key="GridCell.Tab.0.right" timestamp="1585223604785">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1228" height="551" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1585223604785" />
+    <state width="1388" height="280" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585051616752" />
+    <state width="1388" height="312" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1585128673958" />
+    <state x="145" y="32" key="Maven.ArtifactSearchDialog" timestamp="1585046414613">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="145" y="32" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1585046414613" />
+    <state x="236" y="170" key="com.intellij.ide.util.TipDialog" timestamp="1585191289547">
+      <screen x="0" y="23" width="1280" height="706" />
+    </state>
+    <state x="236" y="170" key="com.intellij.ide.util.TipDialog/0.23.1280.706@0.23.1280.706" timestamp="1585191289547" />
+    <state width="750" height="530" key="javadoc.popup" timestamp="1584959447624">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="750" height="530" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1584959447624" />
+    <state x="221" y="0" width="838" height="1032" key="search.everywhere.popup" timestamp="1585218466388">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="221" y="0" width="838" height="1032" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1585218466388" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spring_annotation$IOCTest_test3.ic" NAME="IOCTest.test3 Coverage Results" MODIFIED="1584974552441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>jx.test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
